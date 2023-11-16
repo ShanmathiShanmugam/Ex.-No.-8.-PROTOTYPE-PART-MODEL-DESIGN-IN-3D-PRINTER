@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/ShanmathiShanmugam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121243595/b52de39a-a1e2-4bce-9348-8656be2764c3)
+![WhatsApp Image 2023-11-15 at 13 48 06_a8a4d59c](https://github.com/ShanmathiShanmugam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121243595/adbcd820-78a8-4085-82e7-d21e7d37e74b)
 
 ### Name: S.Shanmathi
 ### Register Number: 212222100049
