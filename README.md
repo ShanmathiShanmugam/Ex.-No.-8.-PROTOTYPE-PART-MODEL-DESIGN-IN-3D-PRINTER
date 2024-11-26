@@ -1,4 +1,4 @@
-# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 24.10.2024
 
@@ -47,7 +47,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![WhatsApp Image 2023-11-15 at 13 48 06_a8a4d59c](https://github.com/ShanmathiShanmugam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121243595/adbcd820-78a8-4085-82e7-d21e7d37e74b)
+![WhatsApp Image 2024-11-25 at 01 49 44_7efbace0](https://github.com/user-attachments/assets/291f0540-807e-4206-888e-e48f0998e8d3)
+
 
 ### Name: S.Shanmathi
 ### Register Number: 212222100049
